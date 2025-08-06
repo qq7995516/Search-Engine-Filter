@@ -72,4 +72,4 @@
 
 ## 📄 许可 (License)
 
-本项目采用 LGPL-2.1 开源。
+本项目采用 [MIT License](https://opensource.org/licenses/MIT) 开源。
